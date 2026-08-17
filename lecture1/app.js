@@ -4,4 +4,4 @@ console.log({
     age:19
 });
 const  obj = {}
-console.log(obj); 
+console.log(obj);
